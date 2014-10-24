@@ -1,9 +1,13 @@
 **************************************************
 Project Name: PlaneVsBoat
 **************************************************
-Developers:   °C. Davide
+Developers:   
+              °C. Davide
+
               °D. Marian
+              
               °F. S. Igor
+              
               °G. Edgar
 **************************************************
 Start Date:   26/10/2014
