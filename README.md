@@ -1,7 +1,7 @@
 **************************************************
 Project Name: PlaneVsBoat
 **************************************************
-Developers:   <br/>C. Davide
+<b>Developers:</b>   <br/>C. Davide
               <br/>D. Marian
               <br/>F. S. Igor
               <br/>G. Edgar
