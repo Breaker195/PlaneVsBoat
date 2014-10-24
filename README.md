@@ -6,9 +6,9 @@
               <br/>F. S. Igor
               <br/>G. Edgar
 **************************************************
-<b>Start Date:</b>   26/10/2014
+<b>Start Date:</b>   [26/10/2014]
 **************************************************
-<b>Finish Date:</b>  7/11/2014
+<b>Finish Date:</b>  [7/11/2014]
 **************************************************
 <b>Description:</b><br/>
   Questo progetto è stato creato per un compito <br/>
