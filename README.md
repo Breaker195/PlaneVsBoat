@@ -1,10 +1,10 @@
 **************************************************
 Project Name: PlaneVsBoat
 **************************************************
-Developers:   <br/>C. Davide
-              <br/>D. Marian
-              <br/>F. S. Igor
-              <br/>G. Edgar
+Developers:   <br/>         C. Davide
+              <br/>         D. Marian
+              <br/>         F. S. Igor
+              <br/>         G. Edgar
 **************************************************
 Start Date:   26/10/2014
 **************************************************
